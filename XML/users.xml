@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserList>
+  <User>
+    <Name>John Doe</Name>
+    <Email>john.doe@example.com</Email>
+    <Phone>555-0101</Phone>
+  </User>
+  <User>
+    <Name>Jane Smith</Name>
+    <Email>jane.smith@example.com</Email>
+    <Phone>555-0202</Phone>
+  </User>
+  <User>
+    <Name>Alex River</Name>
+    <Email>alex.r@example.com</Email>
+    <Phone>555-0303</Phone>
+  </User>
+</UserList>
