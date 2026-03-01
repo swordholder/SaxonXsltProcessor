@@ -1,8 +1,8 @@
-# SaxonXsltProcessor
+# XsltProcessor
 
 Sample project that demonstrates transforming an XML user data file into different output formats using XSLT.
 
-This repository contains a small console app (`SaxonXsltProcessor`) and a library (`Saxon.XML`) that perform XSLT-based transforms. By default the project uses .NET's `XslCompiledTransform` to produce HTML and CSV output from an input XML file using provided XSL stylesheets.
+This repository contains a small console app (`XsltProcessor`) and a library (`Saxon.XML`) that perform XSLT-based transforms. By default the project uses .NET's `XslCompiledTransform` to produce HTML and CSV output from an input XML file using provided XSL stylesheets.
 
 ## Features
 
@@ -20,7 +20,7 @@ From the repository root you can build and run the console app:
 
 ```
 dotnet build
-dotnet run --project SaxonXsltProcessor/SaxonXsltProcessor.csproj
+dotnet run --project XsltProcessor/XsltProcessor.csproj
 ```
 
 The app expects the sample input and XSL files to be located in the `XML` folder next to the project root:
